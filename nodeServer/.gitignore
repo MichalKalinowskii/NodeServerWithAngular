@@ -12,9 +12,6 @@ logs/
 *.log
 logs/*.log
 
-# Debug
-.vscode/
-
 # Environment variables
 .env
 
